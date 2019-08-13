@@ -81,7 +81,7 @@ o) Importe os scripts JS do Bootstrap antes da tag </body>.
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
 
-p) Abra o arquivo index.hml no navegador Chrome. Ative as ferramentas do desenvolvedor pressionando a tecla F12 ou CTRL+SHIFT+I.
+#p) Abra o arquivo index.hml no navegador Chrome. Ative as ferramentas do desenvolvedor pressionando a tecla F12 ou CTRL+SHIFT+I.
 
 q) Pressione as teclas Ctrl+Shift+M para ativar o modo de visualização em dispositivos móveis. Escolha um tamanho para visualizar a página.
 
@@ -110,7 +110,7 @@ e) Crie uma barra de navegação dentro do corpo da página contendo a logo bran
   <div class="collapse navbar-collapse" id="navbarToggler1"></div>
 </nav>
 
-f) Dentro da divisão crie uma lista não ordenada com as classes navbar-nav mr-auto mt-2 mt-lg-0.
+#f) Dentro da divisão crie uma lista não ordenada com as classes navbar-nav mr-auto mt-2 mt-lg-0.
 
 <ul class="navbar-nav mr-auto mt-2 mt-lg-0">
 </ul>
@@ -184,7 +184,7 @@ q) Dentro da quinta divisão row adicione uma divisão com a classe col-md-5 e d
 <div class="col-md-2">A2</div>
 <div class="col-md-2"><span class="badge badge-danger">Indeferido</span></div>
 
-r) Adicione ao corpo da página o rodapé da pagina index.html.
+#r) Adicione ao corpo da página o rodapé da pagina index.html.
 
 s) Importe os scripts JS do Bootstrap antes da tag </body>.
 
@@ -192,7 +192,7 @@ t) Abra o arquivo lista-requerimentos.hml no navegador Chrome. Visualize a pági
 
 
 
-4. Criar a página de novo requerimento para aplicação Aluno Online.
+#4. Criar a página de novo requerimento para aplicação Aluno Online.
 
 a) Crie um arquivo novo-requerimento.html acionando o menu New File com o botão direito sobre a pasta Atividade01.
 
@@ -202,7 +202,7 @@ c) Atribua o título Aluno Online para a página.
 
 d) Importe a folha de estilo do Bootstrap antes da tag </head>.
 
-e) Crie uma barra de navegação dentro do corpo da página contendo a logo branca do IESB com um spam contendo o nome da aplicação, o botão de menu principal e uma divisão para os itens de menu.
+#e) Crie uma barra de navegação dentro do corpo da página contendo a logo branca do IESB com um spam contendo o nome da aplicação, o botão de menu principal e uma divisão para os itens de menu.
 
 f) Dentro da divisão crie uma lista não ordenada com as classes navbar-nav mr-auto mt-2 mt-lg-0.
 
