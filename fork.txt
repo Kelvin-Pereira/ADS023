@@ -1,5 +1,5 @@
 #!/bin/bash
-# Adicione um novo remote; pode chamá-lo de "upstream":
+# Adicione um novo remote; pode chamï¿½-lo de "upstream":
 
 git remote add upstream https://github.com/usuario/projeto.git
 
@@ -8,30 +8,37 @@ git remote add upstream https://github.com/usuario/projeto.git
 
 git fetch upstream
 
-# Certifique-se de que você está no branch master:
+# Certifique-se de que vocï¿½ estï¿½ no branch master:
 
 git checkout master
 
 # Reescreva o seu branch master, de forma que os seus commits
-# que não estão no projeto original apareçam, e que os seus
+# que nï¿½o estï¿½o no projeto original apareï¿½am, e que os seus
 # commits fiquem no topo da lista:
 
 git rebase upstream/master
 
-# Se você não quiser reescrever o histórico do seu branch master
-# (talvez porque alguém já o tenha clonado) então você deve
-# substituir o último comando por um
+# Se vocï¿½ nï¿½o quiser reescrever o histï¿½rico do seu branch master
+# (talvez porque alguï¿½m jï¿½ o tenha clonado) entï¿½o vocï¿½ deve
+# substituir o ï¿½ltimo comando por um
 
 git merge upstream/master
 
 # No entanto, para fazer com que futuros pull requests fiquem o mais
-# limpos possível, é uma boa ideia fazer o rebase.
+# limpos possï¿½vel, ï¿½ uma boa ideia fazer o rebase.
 
-# Se você fez o rebase do seu branch a partir de upstream/master, talvez
-# você precise forçar um push para o seu próprio repositório do Github.
-# Você pode fazer isso com:
+# Se vocï¿½ fez o rebase do seu branch a partir de upstream/master, talvez
+# vocï¿½ precise forï¿½ar um push para o seu prï¿½prio repositï¿½rio do Github.
+# Vocï¿½ pode fazer isso com:
 
 git push -f origin master
 
-# VocÊ vai precisar fazer isso com o -f apenas na primeira vez que você
+# Vocï¿½ vai precisar fazer isso com o -f apenas na primeira vez que vocï¿½
 # faz um rebase.
+
+git status
+git add .
+git commit -m ""
+git origin master
+
+npm install @capacitor/cli
