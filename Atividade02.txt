@@ -25,7 +25,7 @@ h) Dentro do elemento ion-content crie um elemento ion-grid contendo um ion-row.
  </ion-row>
 </ion-grid>
 
-i) Dentro do elemento ion-row crie um elemento ion-col. Atribua as propriedades size-md e offset-md para o elemento. 
+#i) Dentro do elemento ion-row crie um elemento ion-col. Atribua as propriedades size-md e offset-md para o elemento. 
 
 <ion-col size-md="4" offset-md="4"></ion-col>
 
@@ -106,7 +106,7 @@ p) Dentro do primeiro elemento ion-item crie um elemento ion-label e um elemento
 <ion-label text-wrap>ADS023 - Programação para Dispositivos Móveis / A1</ion-label>
 <ion-icon name="checkmark-circle" color="success" slot="end"></ion-icon>
 
-q) Dentro do segundo elemento ion-item crie um elemento ion-label e um elemento ion-icon para o requerimento da disciplina RCT024 - Gerência de Projetos.
+#q) Dentro do segundo elemento ion-item crie um elemento ion-label e um elemento ion-icon para o requerimento da disciplina RCT024 - Gerência de Projetos.
 
 <ion-label text-wrap>RCT024 - Gerência de Projetos / A2</ion-label>
 <ion-icon name="close-circle" color="danger" slot="end"></ion-icon>
