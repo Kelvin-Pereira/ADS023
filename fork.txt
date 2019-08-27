@@ -39,6 +39,17 @@ git push -f origin master
 git status
 git add .
 git commit -m ""
-git origin master
+git push origin master
 
 npm install @capacitor/cli
+
+
+ionic generate
+ionic generate page
+ionic generate interface
+ionic generate service
+ionic generate page contact
+ionic generate component contact/form
+ionic generate component login-form --change-detection=OnPush
+ionic generate directive ripple --skip-import
+ionic generate service api/user
