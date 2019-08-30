@@ -147,7 +147,7 @@ b) Altere o conteúdo do arquivo menu.page.html para usar o Menu Layout.
 
 c) Dentro do leiaute adicione um cabecalho e um conteúdo.
 
-d) Dentro do cabeçalho adicione um barra de ferramenta. Atribua a propriedade color como success.
+#d) Dentro do cabeçalho adicione um barra de ferramenta. Atribua a propriedade color como success.
 
 e) Dentro da barra de ferramenta adicione um título "Menu".
 
@@ -161,7 +161,7 @@ h) Adicione no segundo item um ícone e um rótulo "Item 2".
 
 i) Adicione no terceiro item um ícone e um rótulo "Item 3".
 
-j) Fora do leiaute adicione um cabecalho e um conteúdo.
+#j) Fora do leiaute adicione um cabecalho e um conteúdo.
 
 k) Dentro do cabeçalho adicione um barra de ferramenta. Atribua a propriedade color como warning.
 
@@ -190,13 +190,13 @@ c) Dentro do leiaute adicione um menu e um conteúdo.
 
 d) Dentro do menu adicione um cabeçalho e um conteúdo.
 
-e) Dentro do cabeçalho adicione uma barra de ferramenta. Atribua a propriedade color como danger.
+#e) Dentro do cabeçalho adicione uma barra de ferramenta. Atribua a propriedade color como danger.
 
-f) Dentro da barra adicione um título. Atribua o texto "Painel Lateral".
+#f) Dentro da barra adicione um título. Atribua o texto "Painel Lateral".
 
 g) Dentro do conteúdo adicione três itens. Faça cada item ter um rótulo.
 
-h) Dentro do conteúdo fora do menu adicione um cabeçalho e um parágrafo.
+#h) Dentro do conteúdo fora do menu adicione um cabeçalho e um parágrafo.
 
 i) Dentro do cabeçalho adicione uma barra de ferramenta. Atribua a propriedade color como light.
 
@@ -223,7 +223,7 @@ c) Adicione no grid uma linha e uma coluna.
    <ion-col></ion-col>
 <ion-row>
 
-d) Dentro da coluna adicione uma barra de ferramenta. Atribua a propriedade color como medium.
+#d) Dentro da coluna adicione uma barra de ferramenta. Atribua a propriedade color como medium.
 
 e) Dentro da barra adicione um título. Atribua o texto "Título".
 
