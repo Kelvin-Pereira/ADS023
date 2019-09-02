@@ -231,7 +231,7 @@ f) Adicione no grid outra linha com um coluna.
 
 g) Dentro da coluna adicione um parágrafo. Atribua o texto "Página criada com Grid Layout".
 
-h) Adicione no grid uma linha com duas colunas. Atribua na primeira coluna o texto "1 de 2" e na segunda "2 de 2".
+#h) Adicione no grid uma linha com duas colunas. Atribua na primeira coluna o texto "1 de 2" e na segunda "2 de 2".
 
 i) Adicione no grid uma linha com três colunas. Atribua na primeira coluna o texto "1 de 3", na segunda "2 de 3" e na terceira "3 de 3".
 
