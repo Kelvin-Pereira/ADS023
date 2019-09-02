@@ -9,7 +9,10 @@ const routes: Routes = [
   { path: 'menu', loadChildren: './menu/menu.module#MenuPageModule' },
   { path: 'split', loadChildren: './split/split.module#SplitPageModule' },
   { path: 'grid', loadChildren: './grid/grid.module#GridPageModule' },
+<<<<<<< HEAD
   { path: 'list', loadChildren: './list/list.module#ListPageModule' },
+=======
+>>>>>>> f8b8f3f0f8a0042c1039c9d640c07595fb0b95d1
 
 ];
 
