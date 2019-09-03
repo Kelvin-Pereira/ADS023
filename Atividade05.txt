@@ -24,7 +24,7 @@ d) Adicione na página home um ion-button SAIR para acessar a página login. Atr
 
 e) No navegador acione os botões para acessar as páginas da aplicação. Qual foi o resultado? 
 
-f) Crie uma página chamada detalhes.
+#f) Crie uma página chamada detalhes.
 
 g) Adicione na barra de ferramentas da página detalhes um ion-back-button.
 
