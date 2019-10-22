@@ -1,4 +1,4 @@
-package com.example.a17114290048.aula11
+package com.example.a17214290014.aula11
 
 import android.content.Context
 import android.support.test.InstrumentationRegistry
@@ -21,6 +21,6 @@ class ExampleInstrumentedTest {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
 
-        assertEquals("com.example.a17114290048.aula11", appContext.packageName)
+        assertEquals("com.example.a17214290014.aula11", appContext.packageName)
     }
 }

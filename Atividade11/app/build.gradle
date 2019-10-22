@@ -4,7 +4,7 @@ apply plugin: 'kotlin-android'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "com.example.a17114290048.aula11"
+        applicationId "com.example.a17214290014.aula11"
         minSdkVersion 15
         targetSdkVersion 28
         versionCode 1
