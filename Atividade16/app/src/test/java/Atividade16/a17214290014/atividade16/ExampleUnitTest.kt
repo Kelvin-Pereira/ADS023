@@ -1,4 +1,4 @@
-package Atividade16.a17214290014.Atividade16
+package atividade16.a17214290014.atividade16
 
 import org.junit.Test
 

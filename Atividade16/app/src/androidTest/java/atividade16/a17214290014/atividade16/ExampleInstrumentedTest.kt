@@ -1,4 +1,4 @@
-package Atividade16.a17214290014.Atividade16
+package atividade16.a17214290014.atividade16
 
 import android.support.test.InstrumentationRegistry
 import android.support.test.runner.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getTargetContext()
-        assertEquals("Atividade16.a17214290014.Atividade16", appContext.packageName)
+        assertEquals("atividade16.a17214290014.atividade16", appContext.packageName)
     }
 }
