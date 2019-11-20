@@ -1,15 +1,3 @@
 <resources>
-    <string name="app_name">atividade16</string>
-
-    <string-array name="disciplinas">
-        <item>ADS023 - Programação para Dispositivos Móveis</item>
-        <item>RCT024 - Gerência de Projetos</item>
-    </string-array>
-
-    <string-array name="provas">
-        <item>P1</item>
-        <item>P2</item>
-        <item>P3</item>
-    </string-array>
-
+    <string name="app_name">Atividade16</string>
 </resources>
